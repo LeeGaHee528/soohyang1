@@ -254,6 +254,10 @@ body {
     }
 }
 @media (max-width:600px) {
+    .gnb {
+        display: none !important;
+    }
+    
     #container {
         margin: 98px 0vw !important;
     }
